@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@sveltejs/adapter-static": "^3.0.8",
+    "@tauri-apps/cli": "^2.2.7"
+  },
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^1.6.0"
+  }
+}
